@@ -1,0 +1,121 @@
+body {
+	font-family: 'Itim', sans-serif;
+	background-color: rgb(223, 204, 251);
+}
+
+.title {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 500;
+	text-decoration: underline;
+	text-decoration-color: rgb(152, 126, 245);
+	text-decoration-thickness: 5px;
+}
+
+.name {
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+body, input, textarea, button {font-family: 'Itim', sans-serif}
+
+.textbox {
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	border-radius: 20px;
+	background-color: rgb(208, 191, 255);
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.textbox_title {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 500;
+	text-decoration: underline;
+	text-decoration-color: rgb(152, 126, 245);
+	text-decoration-thickness: 4px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.text {
+	text-align: center;
+	font-size: 25px;
+	font-weight: 300;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.lefttext {
+	text-align: left;
+	font-size: 25px;
+	font-weight: 300;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.grid {
+	display: grid;
+	gap: 1rem;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.data {
+	background-color: rgb(208, 191, 255);
+	text-align: center;
+	font-size: 25px;
+	font-weight: 300;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	border-radius: 20px;
+	text-decoration: underline;
+	text-decoration-color: rgb(152, 126, 245);
+	text-decoration-thickness: 3px;
+}
+
+.data:hover {
+	background-color: aqua;
+	box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+}
+
+.image {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 200px;
+}
+
+.home_button {
+	display:block;
+	background-color: rgb(208, 191, 255);
+	margin-top: 50px;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 500;
+	text-decoration: underline;
+	text-decoration-color: rgb(152, 126, 245);
+	text-decoration-thickness: 5px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	border-radius: 20px;
+}
+
+.home_button:hover {
+	background-color: aqua;
+	box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+}
