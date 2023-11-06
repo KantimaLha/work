@@ -6,7 +6,7 @@ body {
 .title {
 	margin-top: 50px;
 	text-align: center;
-	font-size: 50px;
+	font-size: 70px;
 	font-weight: 500;
 	text-decoration: underline;
 	text-decoration-color: rgb(152, 126, 245);
@@ -36,7 +36,7 @@ body, input, textarea, button {font-family: 'Itim', sans-serif}
 
 .textbox_title {
 	text-align: center;
-	font-size: 40px;
+	font-size: 60px;
 	font-weight: 500;
 	text-decoration: underline;
 	text-decoration-color: rgb(152, 126, 245);
@@ -47,7 +47,7 @@ body, input, textarea, button {font-family: 'Itim', sans-serif}
 
 .text {
 	text-align: center;
-	font-size: 25px;
+	font-size: 35px;
 	font-weight: 300;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -55,7 +55,7 @@ body, input, textarea, button {font-family: 'Itim', sans-serif}
 
 .lefttext {
 	text-align: left;
-	font-size: 25px;
+	font-size: 35px;
 	font-weight: 300;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -70,9 +70,9 @@ body, input, textarea, button {font-family: 'Itim', sans-serif}
 }
 
 .data {
-	background-color: rgb(208, 191, 255);
+	background-color: rgb(255, 216, 249);
 	text-align: center;
-	font-size: 25px;
+	font-size: 45px;
 	font-weight: 300;
 	margin-left: 5px;
 	margin-right: 5px;
@@ -101,10 +101,10 @@ body, input, textarea, button {font-family: 'Itim', sans-serif}
 
 .home_button {
 	display:block;
-	background-color: rgb(208, 191, 255);
+	background-color: rgb(255, 216, 249);
 	margin-top: 50px;
 	text-align: center;
-	font-size: 50px;
+	font-size: 70px;
 	font-weight: 500;
 	text-decoration: underline;
 	text-decoration-color: rgb(152, 126, 245);
